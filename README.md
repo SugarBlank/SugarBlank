@@ -1,7 +1,9 @@
-### Hi, I'm Scouri/SugarBlank.
 <p align="center">
   <img src="https://github.com/SugarBlank/SugarBlank/blob/main/assets/Snow.gif">
 </p>
+
+### Hi, I'm Scouri/SugarBlank.
+
 ## Languages I've used!
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarBlank&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
