@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
- Winter solitude—
- In a world of one color
- The sound of wind.
+ Winter solitude—<br>
+ In a world of one color<br>
+ The sound of wind.<br>
 </p>
 
 # hi, i'm scouri/[sugarblank](https://github.com/SugarBlank) 👋
