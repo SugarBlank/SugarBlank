@@ -7,7 +7,8 @@
  In a world of one color
  The sound of wind.
 </p>
-# hi, i'm scouri/[sugarblank](https://github.com/SugarBlank) :wave:
+
+# hi, i'm scouri/[sugarblank](https://github.com/SugarBlank) 👋
 I'm a passionate self taught highschool programmer always wanting to learn more.
 * Music enthusiast, I play the Violin, Bass, Clarinet, and the Bass Clarinet 🎵 :violin:
 * English 🇺🇸 and Spanish 🇸🇻 speaker 
@@ -17,18 +18,3 @@ I'm a passionate self taught highschool programmer always wanting to learn more.
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarBlank&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**SugarBlank/SugarBlank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
