@@ -2,7 +2,7 @@
   <img src="https://github.com/SugarBlank/SugarBlank/blob/main/assets/Snow.gif">
 </p>
 
-# hi, i'm [scouri/sugarblank](https://github.com/SugarBlank) :wave:
+# hi, i'm scouri/[sugarblank](https://github.com/SugarBlank) :wave:
 I'm a passionate self taught highschool programmer always wanting to learn more.
 * Music enthusiast, I play the Violin, Bass, Clarinet, and the Bass Clarinet 🎵 :violin:
 * English 🇺🇸 and Spanish 🇸🇻 speaker 
