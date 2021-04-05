@@ -9,9 +9,9 @@ I'm a self taught highschool programmer always wanting to learn more.
 * Book Nerd 📖
 
 ## Languages I've used!
-<p align="center">
+
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarBlank&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 <!--
 **SugarBlank/SugarBlank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
