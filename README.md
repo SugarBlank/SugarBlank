@@ -6,6 +6,7 @@
  Winter solitude—<br>
  In a world of one color<br>
  The sound of wind.<br>
+  - Haiku by <b>Basho Matsou</b>
 </p>
 
 # hi, i'm scouri/[sugarblank](https://github.com/SugarBlank) 👋
