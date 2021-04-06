@@ -14,8 +14,9 @@ I'm a passionate self taught highschool programmer always wanting to learn more.
 * Music enthusiast, I play the Violin, Bass, Clarinet, and the Bass Clarinet 🎵 :violin:
 * English 🇺🇸 and Spanish 🇸🇻 speaker 
 * Book Nerd 📖
+* I know C#, Python, Java, SQL, and I'm hoping to start C++ soon!
 
-## Languages I've used!
+## languages i've used on my repositories!
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarBlank&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
