@@ -12,8 +12,8 @@
 # hi, i'm scouri/[sugarblank](https://github.com/SugarBlank) 👋
 I'm a passionate self taught highschool programmer always wanting to learn more.
 * Music enthusiast, I play the Violin, Bass, Clarinet, and the Bass Clarinet 🎵 :violin:
-* English 🇺🇸 and Spanish 🇸🇻 speaker 
-* Book Nerd 📖
+* I speak English 🇺🇸 and Spanish 🇸🇻 
+* Anime Enthusiast 📖
 * I know C#, Python, Java, SQL, and I'm hoping to start C++ soon!
 
 ## languages i've used on my repositories!
