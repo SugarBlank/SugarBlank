@@ -13,8 +13,8 @@
 I'm a passionate self taught highschool programmer always wanting to learn more.
 * Music enthusiast, I play the Violin, Bass, Clarinet, and the Bass Clarinet 🎵 :violin:
 * I speak English 🇺🇸 and Spanish 🇸🇻 
-* Anime Enthusiast 📖
-* I know C#, Python, Java, SQL, and I'm hoping to start C++ soon!
+* Anime Enthusiast 
+* I know C#, Python, C++, SQL, and Java!
 
 ## languages i've used on my repositories!
 
