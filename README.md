@@ -18,5 +18,4 @@ I'm a passionate self taught highschool programmer always wanting to learn more.
 
 ## languages i've used on my repositories!
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarBlank&layout=compact&theme=nord&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarBlank&layout=compact&theme=nord&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
