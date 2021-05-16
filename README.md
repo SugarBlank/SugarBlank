@@ -10,7 +10,7 @@
 </p>
 
 # hi, i'm scouri/[sugarblank](https://github.com/SugarBlank) 👋
-I'm a passionate self taught highschool programmer always wanting to learn more.
+I'm a passionate, self taught highschool programmer always wanting to learn more.
 * Musician
 * English and Spanish Speaker 
 * Anime Enthusiast 
